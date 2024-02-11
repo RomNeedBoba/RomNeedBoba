@@ -60,4 +60,8 @@
   </a>
 </div>
 
+<img src="https://raw.githubusercontent.com/RomNeedBoba/RomNeedBoba/output/snake.svg" alt="Snake animation" />
+
+###
+
 ###
