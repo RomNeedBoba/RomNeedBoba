@@ -20,7 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romneedboba&show_icons=true&locale=en" alt="romneedboba" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romneedboba&" alt="romneedboba" /></p> -->
-<h2 align="left">Hi  Fam ! This is Rom Jr. Raven and I'm a software engineer sophomore students from Cambodia Academy of Digital Technology , Outside of my school i already choose my career to becoming of the Web Developer,,,,,</h2>
+<h2 align="left">Hi  Fam ! This is Rom Jr. Raven and I'm a software engineer sophomore students from Cambodia Academy of Digital Technology , Outside of my school i already choose my career to becoming of the Web Developer...</h2>
 
 ###
 
