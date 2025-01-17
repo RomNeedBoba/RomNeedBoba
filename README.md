@@ -22,14 +22,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romneedboba&" alt="romneedboba" /></p> -->
 <h2 align="left">A specialized in Web Development, Currently working in Fullstack Web align with Computer Vision ( Laravel, Python , ReactJS ) </h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RomNeedBoba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=RomNeedBoba&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div> -->
-
-###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZtcjJ2djlmbHZyMWhjN3ZhNGlrZWU0MHVxbWVtM2Z2MGJhcGozcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  />
 
@@ -82,4 +74,3 @@
 
 ###
  --> -->
-
